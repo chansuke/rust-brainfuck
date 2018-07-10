@@ -1,0 +1,6 @@
+[package]
+name = "rust-brainfuck"
+version = "0.1.0"
+authors = ["chansuke <chansuke@georepublic.de>"]
+
+[dependencies]
